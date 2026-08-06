@@ -1,89 +1,104 @@
-health-information
+# health-information
 
 Health Information for Alexander Ferrari Miller
 
-Purpose
+## Purpose
 
-“What do I know about my health?”
+> "What do I know about my health?"
 
 This repository is the authoritative reference for my personal health information. It contains diagnoses, medications, providers, medical history, laboratory results, measurements, visit summaries, and other information that changes relatively infrequently.
 
 The repository is intended to:
 
-• Maintain a complete and accurate medical history.
-• Organize health information in a consistent, searchable format.
-• Preserve historical information without overwriting previous records.
-• Support preparation of summaries for physicians and other healthcare providers.
-• Provide the reference information that complements the daily health log.
+1. Maintain a complete and accurate medical history.
 
-Repository Structure
+2. Organize health information in a consistent, searchable format.
 
-README.md
+3. Preserve historical information without overwriting previous records.
+
+4. Support preparation of summaries for physicians and other healthcare providers.
+
+5. Provide the reference information that complements the daily health log.
+
+## Repository Structure
+
+### README.md
 
 Overview of the repository, its purpose, organization, and documentation standards.
 
-conditions.md
+### conditions.md
 
 Diagnoses, allergies, surgeries, chronic conditions, and other long-term medical history.
 
-medications.md
+### medications.md
 
 Current and historical medications, including dosage, schedule, start and stop dates, indication, and significant medication changes.
 
-providers.md
+### providers.md
 
 Healthcare providers, pharmacies, clinics, hospitals, and contact information.
 
-visits.md
+### visits.md
 
 Chronological summaries of office visits, specialist consultations, emergency room visits, hospitalizations, physician recommendations, and follow-up plans.
 
-labs.md
+### labs.md
 
 Laboratory results, imaging studies, pathology reports, and physician interpretations.
 
-measurements.csv
+### measurements.csv
 
-Structured recurring measurements such as blood pressure, pulse, oxygen saturation, temperature, weight, blood glucose, and other numerical data suitable for analysis and graphing.
+Structured recurring measurements such as blood glucose, blood pressure, pulse, oxygen saturation, temperature, weight, and other numerical data suitable for analysis and graphing.
 
-Daily Health Log Standard
+## Daily Health Log Standard
 
 Each daily health log follows a consistent structure.
 
-Morning Medications
+### Morning Medications
 
 Record each scheduled morning medication with a ✓ when taken. Add notes only when clinically or operationally significant, such as:
 
-• Last tablet taken
-• Refill ordered
-• Medication unavailable
-• Dose changed
-• Medication held on physician instructions
+- Last tablet taken
 
-Measurements
+- Refill ordered
+
+- Medication unavailable
+
+- Dose changed
+
+- Medication held on physician instructions
+
+### Measurements
 
 Record measurements in the following order:
 
-Measurements
+1. Blood Glucose (if recorded)
 
-Record measurements in the following order:
+2. Blood Pressure
 
-• Blood Glucose (if recorded)
-• Blood Pressure
-• Pulse
-• Oxygen Saturation
-• Pulse (Oximeter)
-• Temperature
-• Weight
+3. Pulse
 
-Notes
+4. Oxygen Saturation
+
+5. Pulse (Oximeter)
+
+6. Temperature
+
+7. Weight
+
+### Notes
 
 Use this section for unusual events, symptoms, physician instructions, medication changes, appointments, or other observations that may be important when reviewing the log later.
 
-Design Principles
+## Design Principles
 
-• Record facts accurately and objectively.
-• Keep information chronological.
-• Separate structured data from narrative notes whenever practical.
-• Preserve historical information rather than replacing it.
-• Maintain consistency so reports can be prepared efficiently for healthcare providers.
+- Record facts accurately and objectively.
+
+- Keep information chronological.
+
+- Separate structured data from narrative notes whenever practical.
+
+- Preserve historical information rather than replacing it.
+
+- Maintain consistency so reports can be prepared efficiently for healthcare providers.
+
