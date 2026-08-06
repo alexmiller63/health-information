@@ -64,12 +64,17 @@ Measurements
 
 Record measurements in the following order:
 
-1. Blood Pressure
-2. Pulse
-3. Oxygen Saturation
-4. Pulse (Oximeter)
-5. Temperature
-6. Weight
+Measurements
+
+Record measurements in the following order:
+
+• Blood Glucose (if recorded)
+• Blood Pressure
+• Pulse
+• Oxygen Saturation
+• Pulse (Oximeter)
+• Temperature
+• Weight
 
 Notes
 
