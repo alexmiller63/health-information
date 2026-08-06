@@ -629,3 +629,35 @@ Notes
 
 - Historical Apple Health measurements were merged into this log. The complete raw source remains in `apple-health.md`.
 
+August 6, 2026
+
+Morning Medications
+
+* ✓ Omeprazole 20 mg (before lunch)
+* ✓ Sertraline 25 mg
+* ✓ Atenolol 100 mg
+* ✓ Amlodipine 10 mg
+* ✓ Losartan 100 mg
+* ✓ Oxybutynin ER 10 mg
+* Allopurinol 300 mg: Out of medication. Need to contact CVS for a refill.
+* ✓ Depakote 250 mg
+* ✓ Aspirin 81 mg
+
+Measurements
+
+* Blood Glucose (fasting): 117 mg/dL
+* Blood Pressure: 133/69 mmHg
+* Pulse (sphygmomanometer): 64 bpm
+* Oxygen Saturation: 92%
+* Pulse (oximeter): 64 bpm
+* Temperature: 98.0°F
+* Weight: 261.0 lb
+
+Notes
+
+* Slept approximately 12 hours. Awakened by a phone call rather than waking naturally, but still felt well rested.
+* Attended diabetic retinopathy examination. Measurements were taken. Sprinter Health indicated they would notify Molina that they can perform a wellness check.
+* Received information about the Santa Central “100 Days to Sleigh” health challenge and forwarded it to Cindy.
+* Glucose meter is initially difficult to slide into its protective sleeve. Repeated insertions may loosen the fit over time.
+* Procedure improvement: remove a test strip before lancing a finger to reduce the chance of contaminating unused test strips with blood.
+
