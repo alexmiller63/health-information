@@ -661,3 +661,67 @@ Notes
 * Glucose meter is initially difficult to slide into its protective sleeve. Repeated insertions may loosen the fit over time.
 * Procedure improvement: remove a test strip before lancing a finger to reduce the chance of contaminating unused test strips with blood.
 
+August 7, 2026
+
+Measurements
+
+• Blood Glucose:
+  • Fasting, before breakfast: measured, but reading was lost before it could be recorded
+  • Approximately 1 hour after breakfast: 296 mg/dL
+• Blood Pressure:
+  • First reading: 101/57 mmHg, pulse 72 bpm
+    • Blood pressure monitor reported a possible irregular heartbeat.
+  • Repeat reading: 108/57 mmHg, pulse 66 bpm
+    • No irregular-heartbeat warning or other warning was reported on the repeat measurement.
+• Oxygen Saturation: 95%
+• Pulse: 67 bpm
+• Temperature: 97.7°F
+• Weight: 264.4 lb
+
+Morning Medications
+
+• Sertraline: taken
+• Atenolol: taken
+• Amlodipine: taken
+• Losartan: taken
+• Allopurinol: not taken; supply exhausted and refill believed to have been ordered
+• Oxybutynin: taken
+• Depakote (divalproex): taken
+• Low-dose aspirin: taken
+
+Previous Night’s Medications
+
+• Depakote (divalproex): 2 tablets, taken
+• Atorvastatin: taken
+• Seroquel (quetiapine): 100 mg, 1 tablet, taken
+• Melatonin: taken
+• Saphris (asenapine): taken
+
+Sleep
+
+• Bedtime: approximately 1:30 a.m.
+• Wake time: 7:25 a.m. with alarm
+• Time in bed: approximately 5 hours 55 minutes
+• Sleep was mostly continuous, with a possible brief awakening to use the bathroom.
+• Felt alert and energetic after waking.
+• Teri Thomas independently commented that I sounded “bright-eyed and bushy-tailed.”
+
+Diet Log
+
+• Breakfast: oatmeal
+
+Alcohol Log
+
+• None so far today.
+
+Notes
+
+• Morning fasting blood glucose was taken before breakfast, but the numerical reading was lost before it could be recorded.
+• A second blood glucose measurement was taken approximately 1 hour after the oatmeal breakfast and measured 296 mg/dL.
+• Morning routine will include a fasting blood glucose measurement before breakfast and another blood glucose measurement when morning medications are taken after breakfast. The post-breakfast measurement will be labeled with the approximate elapsed time since eating.
+• Blood pressure was low on two consecutive measurements. The first measurement also produced a possible irregular-heartbeat warning; the warning did not recur on the repeat measurement.
+• Melatonin supply is running low, and there is currently no money available to replace it.
+• Daily health-log entries will include measurements, medications, sleep, diet, and alcohol.
+
+
+
