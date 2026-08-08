@@ -1121,6 +1121,78 @@ Alcohol
 
 Alcohol consumed: 0
 
+# Health Log — August 8, 2026
+
+> **Supersedes previous August 8, 2026 health log entry.**
+
+## Morning
+
+### Blood Glucose
+
+- Fasting blood glucose: 112 mg/dL
+
+### Blood Pressure
+
+- Blood pressure: 127/69 mmHg
+
+- Pulse: 63 bpm
+
+- Monitor indicated possible irregular heartbeat
+
+### Pulse Oximeter
+
+- SpO₂: 95%
+
+- Pulse: 66 bpm
+
+### Temperature
+
+- 98.0°F
+
+### Weight
+
+- 263.8 lb
+
+### Breakfast
+
+- Sugary cereal
+
+### Last Night's Medications
+
+- Depakote: 500 mg
+
+- Seroquel: 100 mg
+
+- Melatonin: 10 mg
+
+- Saphris: 20 mg
+
+### Morning Medications
+
+- Sertraline: 25 mg
+
+- Atenolol: 100 mg
+
+- Amlodipine: 10 mg
+
+- Losartan: 100 mg
+
+- Oxybutynin ER: 10 mg
+
+- Depakote: 250 mg
+
+- Low-dose aspirin: 81 mg
+
+- Allopurinol: not taken; supply exhausted
+
+  - CVS arranged an early refill
+
+  - Expected ready at 11:00 AM
+
+### Alcohol
+
+- Alcohol consumed: 0
+
 
 
 
