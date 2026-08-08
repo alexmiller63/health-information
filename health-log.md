@@ -1,201 +1,234 @@
-#Health Log
+# Health Log
 
-Historical measurements recovered from Apple Health are incorporated into this log as ordinary dated health entries. The complete underlying Apple Health export is preserved separately in apple-health.md⁠￼.
+Historical measurements recovered from Apple Health are incorporated into this log as ordinary dated health entries. The complete underlying Apple Health export is preserved separately in `apple-health.md`.
 
-June 16, 2026
+---
 
-Measurements
+## June 16, 2026
 
-* Blood Glucose: 215 mg/dL at 5:00 pm
+### Measurements
 
-Notes
+- Blood Glucose: 215 mg/dL at 5:00 pm
 
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+### Notes
 
-⸻
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-June 17, 2026
+---
 
-Measurements
+## June 17, 2026
 
-* Blood Glucose:
-    * 7:30 am: 97 mg/dL
-    * 3:00 pm: 128 mg/dL
-    * 8:45 pm: 154 mg/dL
+### Measurements
 
-Notes
+- Blood Glucose:
 
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+  - 7:30 am: 97 mg/dL
 
-⸻
+  - 3:00 pm: 128 mg/dL
 
-June 18, 2026
+  - 8:45 pm: 154 mg/dL
 
-Measurements
+### Notes
 
-* Blood Glucose:
-    * 7:51 am: 107 mg/dL
-    * 6:07 pm: 176 mg/dL
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-Notes
+---
 
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+## June 18, 2026
 
-⸻
+### Measurements
 
-June 19, 2026
+- Blood Glucose:
 
-Measurements
+  - 7:51 am: 107 mg/dL
 
-* Blood Pressure: ~126/76 mmHg
-* Blood Glucose:
-    * 8:30 pm: 87 mg/dL
-    * 9:00 pm: 144 mg/dL
+  - 6:07 pm: 176 mg/dL
 
-Notes
+### Notes
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-⸻
+---
 
-June 20, 2026
+## June 19, 2026
 
-Measurements
+### Measurements
 
-* Blood Pressure: ~140/76 mmHg
-* Blood Glucose: 107 mg/dL at 5:15 am
+- Blood Pressure: ~126/76 mmHg
 
-Notes
+- Blood Glucose:
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+  - 8:30 pm: 87 mg/dL
 
-⸻
+  - 9:00 pm: 144 mg/dL
 
-June 22, 2026
+### Notes
 
-Measurements
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
 
-* Blood Pressure: ~153/84 mmHg
-* Blood Glucose: 123 mg/dL at 8:45 am
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-Notes
+---
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+## June 20, 2026
 
-⸻
+### Measurements
 
-June 23, 2026
+- Blood Pressure: ~140/76 mmHg
 
-Measurements
+- Blood Glucose: 107 mg/dL at 5:15 am
 
-* Blood Glucose: 94 mg/dL at 7:00 am
+### Notes
 
-Notes
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
 
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-⸻
+---
 
-June 24, 2026
+## June 22, 2026
 
-Measurements
+### Measurements
 
-* Blood Pressure: ~148/76 mmHg
+- Blood Pressure: ~153/84 mmHg
 
-Notes
+- Blood Glucose: 123 mg/dL at 8:45 am
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurement recovered from Apple Health. See apple-health.md for the complete raw export.
+### Notes
 
-⸻
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
 
-June 25, 2026
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-Measurements
+---
 
-* Blood Pressure: ~120/57 mmHg
-* Blood Glucose: 117 mg/dL at 11:45 am
+## June 23, 2026
 
-Notes
+### Measurements
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+- Blood Glucose: 94 mg/dL at 7:00 am
 
-⸻
+### Notes
 
-June 26, 2026
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-Measurements
+---
 
-* Blood Pressure: ~116/61 mmHg
-* Blood Glucose: 116 mg/dL at 11:20 am
+## June 24, 2026
 
-Notes
+### Measurements
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+- Blood Pressure: ~148/76 mmHg
 
-⸻
+### Notes
 
-June 27, 2026
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
 
-Measurements
+- Historical measurement recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-* Blood Pressure: ~129/70 mmHg
-* Blood Glucose: 140 mg/dL at 7:57 am
+---
 
-Notes
+## June 25, 2026
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+### Measurements
 
-⸻
+- Blood Pressure: ~120/57 mmHg
 
-June 28, 2026
+- Blood Glucose: 117 mg/dL at 11:45 am
 
-Measurements
+### Notes
 
-* Blood Pressure: ~155/76 mmHg
-* Blood Glucose: 92 mg/dL at 7:45 am
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
 
-Notes
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+---
 
-⸻
+## June 26, 2026
 
-June 29, 2026
+### Measurements
 
-Measurements
+- Blood Pressure: ~116/61 mmHg
 
-* Blood Pressure: ~151/68 mmHg
-* Blood Glucose: 98 mg/dL at 5:50 am
+- Blood Glucose: 116 mg/dL at 11:20 am
 
-Notes
+### Notes
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
 
-⸻
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
-June 30, 2026
+---
 
-Measurements
+## June 27, 2026
 
-* Blood Pressure: ~153/74 mmHg
-* Blood Glucose:
-    * 7:45 am: 109 mg/dL
-    * 7:00 pm: 197 mg/dL
-    * 9:56 pm: 112 mg/dL
+### Measurements
 
-Notes
+- Blood Pressure: ~129/70 mmHg
 
-* Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
-* Historical measurements recovered from Apple Health. See apple-health.md for the complete raw export.
+- Blood Glucose: 140 mg/dL at 7:57 am
+
+### Notes
+
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
+
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
+
+---
+
+## June 28, 2026
+
+### Measurements
+
+- Blood Pressure: ~155/76 mmHg
+
+- Blood Glucose: 92 mg/dL at 7:45 am
+
+### Notes
+
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
+
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
+
+---
+
+## June 29, 2026
+
+### Measurements
+
+- Blood Pressure: ~151/68 mmHg
+
+- Blood Glucose: 98 mg/dL at 5:50 am
+
+### Notes
+
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
+
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
+
+---
+
+## June 30, 2026
+
+### Measurements
+
+- Blood Pressure: ~153/74 mmHg
+
+- Blood Glucose:
+
+  - 7:45 am: 109 mg/dL
+
+  - 7:00 pm: 197 mg/dL
+
+  - 9:56 pm: 112 mg/dL
+
+### Notes
+
+- Blood pressure reconstructed from an Apple Health monthly graph and is approximate.
+
+- Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
+
+---
 
 ## July 1, 2026
 
@@ -479,25 +512,27 @@ Notes
 
 - Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
+---
+
 ## August 2, 2026
 
 ### Morning Medications
 
-- ✓ Sertraline
+- Sertraline: taken
 
-- ✓ Atenolol
+- Atenolol: taken
 
-- ✓ Amlodipine
+- Amlodipine: taken
 
-- ✓ Losartan/Hydrochlorothiazide
+- Losartan/Hydrochlorothiazide: taken
 
-- ✓ Allopurinol — last tablet taken; refill already ordered
+- Allopurinol: taken; last tablet taken, refill already ordered
 
-- ✓ Oxybutynin ER
+- Oxybutynin ER: taken
 
-- ✓ Divalproex
+- Divalproex: taken
 
-- ✓ Low-dose aspirin
+- Low-dose aspirin: taken
 
 ### Measurements
 
@@ -519,21 +554,21 @@ Notes
 
 ### Morning Medications
 
-- ✓ Sertraline
+- Sertraline: taken
 
-- ✓ Atenolol
+- Atenolol: taken
 
-- ✓ Amlodipine
+- Amlodipine: taken
 
-- ✓ Losartan
+- Losartan: taken
 
-- Allopurinol unavailable; refill expected August 5
+- Allopurinol: not taken; unavailable, refill expected August 5
 
-- ✓ Oxybutynin ER
+- Oxybutynin ER: taken
 
-- ✓ Divalproex
+- Divalproex: taken
 
-- ✓ Low-dose aspirin
+- Low-dose aspirin: taken
 
 ### Measurements
 
@@ -565,35 +600,35 @@ Notes
 
 ### Previous Evening Medications — August 4
 
-- ✓ Depakote (divalproex) — 500 mg (two 250 mg tablets)
+- Depakote (divalproex): 500 mg (2 × 250 mg tablets), taken
 
-- ✓ Seroquel (quetiapine) — 100 mg (two 50 mg tablets)
+- Seroquel (quetiapine): 100 mg (2 × 50 mg tablets), taken
 
-- ✓ Melatonin — 10 mg
+- Melatonin: 10 mg, taken
 
-- ✓ Saphris (asenapine) — 20 mg (two 10 mg sublingual tablets)
+- Saphris (asenapine): 20 mg (2 × 10 mg sublingual tablets), taken
 
 ### Morning Medications
 
-- ✓ Sertraline
+- Sertraline: taken
 
-- ✓ Atenolol
+- Atenolol: taken
 
-- ✓ Amlodipine
+- Amlodipine: taken
 
-- ✓ Losartan
+- Losartan: taken
 
-- ✓ Oxybutynin ER
+- Oxybutynin ER: taken
 
-- ✓ Allopurinol
+- Allopurinol: taken
 
-- ✓ Divalproex
+- Divalproex: taken
 
-- ✓ Low-dose aspirin
+- Low-dose aspirin: taken
 
 ### Midday Medication
 
-- ✓ Omeprazole — 20 mg before lunch
+- Omeprazole: 20 mg, taken before lunch
 
 ### Measurements
 
@@ -613,13 +648,13 @@ Notes
 
 ### Notes
 
-- Picked up omeprazole 20 mg capsules and resumed taking one capsule before a meal. The usual schedule is 11:00 a.m., approximately 1 hour before lunch.
+- Picked up omeprazole 20 mg capsules and resumed taking 1 capsule before a meal. The usual schedule is 11:00 am, approximately 1 hour before lunch.
 
-- Picked up Seroquel 100 mg tablets. Beginning tonight, the nightly 100 mg dose will be taken as one 100 mg tablet instead of two 50 mg tablets.
+- Picked up Seroquel 100 mg tablets. Beginning tonight, the nightly 100 mg dose will be taken as 1 × 100 mg tablet instead of 2 × 50 mg tablets.
 
 - Successfully used the new glucose meter after the pharmacist configured it.
 
-- The glucose meter stores readings and calculates rolling 7-day, 14-day, and 30-day averages. All three currently display 115 mg/dL based on 1 reading.
+- The glucose meter stores readings and calculates rolling 7-day, 14-day, and 30-day averages. All 3 currently display 115 mg/dL based on 1 reading.
 
 - Lancing-device setting 1 did not produce enough blood. Setting 3 produced more blood than necessary and required a bandage. The next test will use approximately setting 2.5.
 
@@ -629,237 +664,63 @@ Notes
 
 - Historical Apple Health measurements were merged into this log. The complete raw source remains in `apple-health.md`.
 
-August 6, 2026
+---
 
-Morning Medications
-
-* ✓ Omeprazole 20 mg (before lunch)
-* ✓ Sertraline 25 mg
-* ✓ Atenolol 100 mg
-* ✓ Amlodipine 10 mg
-* ✓ Losartan 100 mg
-* ✓ Oxybutynin ER 10 mg
-* Allopurinol 300 mg: Out of medication. Need to contact CVS for a refill.
-* ✓ Depakote 250 mg
-* ✓ Aspirin 81 mg
-
-Measurements
-
-* Blood Glucose (fasting): 117 mg/dL
-* Blood Pressure: 133/69 mmHg
-* Pulse (sphygmomanometer): 64 bpm
-* Oxygen Saturation: 92%
-* Pulse (oximeter): 64 bpm
-* Temperature: 98.0°F
-* Weight: 261.0 lb
-
-Notes
-
-* Slept approximately 12 hours. Awakened by a phone call rather than waking naturally, but still felt well rested.
-* Attended diabetic retinopathy examination. Measurements were taken. Sprinter Health indicated they would notify Molina that they can perform a wellness check.
-* Received information about the Santa Central “100 Days to Sleigh” health challenge and forwarded it to Cindy.
-* Glucose meter is initially difficult to slide into its protective sleeve. Repeated insertions may loosen the fit over time.
-* Procedure improvement: remove a test strip before lancing a finger to reduce the chance of contaminating unused test strips with blood.
-
-August 7, 2026
-
-Measurements
-
-• Blood Glucose:
-  • Fasting, before breakfast: measured, but reading was lost before it could be recorded
-  • Approximately 1 hour after breakfast: 296 mg/dL
-• Blood Pressure:
-  • First reading: 101/57 mmHg, pulse 72 bpm
-    • Blood pressure monitor reported a possible irregular heartbeat.
-  • Repeat reading: 108/57 mmHg, pulse 66 bpm
-    • No irregular-heartbeat warning or other warning was reported on the repeat measurement.
-• Oxygen Saturation: 95%
-• Pulse: 67 bpm
-• Temperature: 97.7°F
-• Weight: 264.4 lb
-
-Morning Medications
-
-• Sertraline: taken
-• Atenolol: taken
-• Amlodipine: taken
-• Losartan: taken
-• Allopurinol: not taken; supply exhausted and refill believed to have been ordered
-• Oxybutynin: taken
-• Depakote (divalproex): taken
-• Low-dose aspirin: taken
-
-Previous Night’s Medications
-
-• Depakote (divalproex): 2 tablets, taken
-• Atorvastatin: taken
-• Seroquel (quetiapine): 100 mg, 1 tablet, taken
-• Melatonin: taken
-• Saphris (asenapine): taken
-
-Sleep
-
-• Bedtime: approximately 1:30 a.m.
-• Wake time: 7:25 a.m. with alarm
-• Time in bed: approximately 5 hours 55 minutes
-• Sleep was mostly continuous, with a possible brief awakening to use the bathroom.
-• Felt alert and energetic after waking.
-• Teri Thomas independently commented that I sounded “bright-eyed and bushy-tailed.”
-
-Diet Log
-
-• Breakfast: oatmeal
-
-Alcohol Log
-
-• None so far today.
-
-Notes
-
-• Morning fasting blood glucose was taken before breakfast, but the numerical reading was lost before it could be recorded.
-• A second blood glucose measurement was taken approximately 1 hour after the oatmeal breakfast and measured 296 mg/dL.
-• Morning routine will include a fasting blood glucose measurement before breakfast and another blood glucose measurement when morning medications are taken after breakfast. The post-breakfast measurement will be labeled with the approximate elapsed time since eating.
-• Blood pressure was low on two consecutive measurements. The first measurement also produced a possible irregular-heartbeat warning; the warning did not recur on the repeat measurement.
-• Melatonin supply is running low, and there is currently no money available to replace it.
-• Daily health-log entries will include measurements, medications, sleep, diet, and alcohol.
-
-## August 7, 2026 — Replacement Entry
-
-**This entry supersedes the earlier August 7, 2026 entry.**
-
-### Measurements
-
-- Blood Glucose:
-
-  - Fasting, before breakfast: measured, but reading was lost before it could be recorded; recalled as being in a good range
-
-  - Approximately 1 hour after breakfast: 296 mg/dL
-
-  - Afternoon, while experiencing dizziness: 67 mg/dL
-
-  - Approximately 15 minutes after eating Japanese peanuts: 76 mg/dL
-
-  - 3:31 pm, after subsequently eating 2 slices of whole-wheat bread: 108 mg/dL
-
-- Blood Pressure:
-
-  - First reading: 101/57 mmHg, pulse 72 bpm
-
-    - Blood pressure monitor reported a possible irregular heartbeat.
-
-  - Repeat reading: 108/57 mmHg, pulse 66 bpm
-
-    - No irregular-heartbeat warning or other warning was reported on the repeat measurement.
-
-- Oxygen Saturation: 95%
-
-- Pulse: 67 bpm
-
-- Temperature: 97.7°F
-
-- Weight: 264.4 lb
+## August 6, 2026
 
 ### Morning Medications
 
-- Sertraline: taken
+- Omeprazole: 20 mg, taken before lunch
 
-- Atenolol: taken
+- Sertraline: 25 mg, taken
 
-- Amlodipine: taken
+- Atenolol: 100 mg, taken
 
-- Losartan: taken
+- Amlodipine: 10 mg, taken
 
-- Allopurinol: not taken; supply exhausted and refill believed to have been ordered
+- Losartan: 100 mg, taken
 
-- Oxybutynin: taken
+- Oxybutynin ER: 10 mg, taken
 
-- Depakote (divalproex): taken
+- Allopurinol: 300 mg, not taken; out of medication, need to contact CVS for a refill
 
-- Low-dose aspirin: taken
+- Depakote: 250 mg, taken
 
-### Previous Night’s Medications
+- Aspirin: 81 mg, taken
 
-- Depakote (divalproex): 2 tablets, taken
+### Measurements
 
-- Atorvastatin: taken
+- Blood Glucose (fasting): 117 mg/dL
 
-- Seroquel (quetiapine): 100 mg, 1 tablet, taken
+- Blood Pressure: 133/69 mmHg
 
-- Melatonin: taken
+- Pulse (Sphygmomanometer): 64 bpm
 
-- Saphris (asenapine): taken
+- Oxygen Saturation: 92%
 
-### Sleep
+- Pulse (Oximeter): 64 bpm
 
-- Bedtime: approximately 1:30 am
+- Temperature: 98.0°F
 
-- Wake time: 7:25 am with alarm
-
-- Time in bed: approximately 5 hours 55 minutes
-
-- Sleep was mostly continuous, with a possible brief awakening to use the bathroom.
-
-- Felt alert and energetic after waking.
-
-- Teri Thomas independently commented that I sounded “bright-eyed and bushy-tailed.”
-
-### Diet Log
-
-- Breakfast: oatmeal
-
-- Lunch: whole-wheat bread turkey breast sandwich
-
-- During low-blood-glucose episode: Japanese peanuts
-
-- After glucose increased to 76 mg/dL: 2 slices of whole-wheat bread
-
-### Alcohol Log
-
-- None so far today.
-
-### Additional Medications
-
-- Mounjaro: weekly dose taken just after lunch
-
-- Omeprazole: 20 mg taken after lunch rather than before lunch as normally scheduled
-
-### Hypoglycemic Episode
-
-- While lying down in the afternoon, experienced dizziness.
-
-- Blood glucose measured 67 mg/dL.
-
-- Ate Japanese peanuts from Valentine’s snack supply.
-
-- Dizziness subsequently resolved.
-
-- Repeat blood glucose was 76 mg/dL.
-
-- Ate 2 slices of whole-wheat bread.
-
-- Blood glucose measured 108 mg/dL at 3:31 pm.
-
-- This appears to be the first known episode of symptomatic low blood glucose.
+- Weight: 261.0 lb
 
 ### Notes
 
-- Morning fasting blood glucose was taken before breakfast, but the numerical reading was lost before it could be recorded. It is recalled as having been in a good range.
+- Slept approximately 12 hours. Awakened by a phone call rather than waking naturally, but still felt well rested.
 
-- A second blood glucose measurement approximately 1 hour after the oatmeal breakfast measured 296 mg/dL.
+- Attended diabetic retinopathy examination. Measurements were taken. Sprinter Health indicated they would notify Molina that they can perform a wellness check.
 
-- Blood glucose later fell to 67 mg/dL with dizziness and subsequently recovered to 108 mg/dL after food.
+- Received information about the Santa Central “100 Days to Sleigh” health challenge and forwarded it to Cindy.
 
-- The weekly Mounjaro dose was taken just after lunch.
+- Glucose meter is initially difficult to slide into its protective sleeve. Repeated insertions may loosen the fit over time.
 
-- Blood pressure was low on two consecutive morning measurements. The first measurement also produced a possible irregular-heartbeat warning; the warning did not recur on the repeat measurement.
+- Procedure improvement: remove a test strip before lancing a finger to reduce the chance of contaminating unused test strips with blood.
 
-- Melatonin supply is running low, and there is currently no money available to replace it.
+---
 
-- Daily health-log entries will include measurements, medications, sleep, diet, and alcohol.
+## August 7, 2026
 
-## August 7, 2026 — Replacement Entry
-
-**This entry supersedes the earlier August 7, 2026 entry.**
+> **Logging milestone:** August 7, 2026 is the first date on which diet and alcohol were systematically recorded as dedicated categories in this health log. The absence of Diet Log or Alcohol Log sections on earlier dates does not indicate that diet or alcohol was assessed and found to be absent; those categories had not yet been systematically logged.
 
 ### Measurements
 
@@ -909,13 +770,13 @@ Notes
 
 - Oxybutynin: taken
 
-- Depakote (divalproex): taken
+- Depakote (divalproex): 250 mg, taken
 
 - Low-dose aspirin: taken
 
-### Previous Night’s Medications
+### Previous Night's Medications
 
-- Depakote (divalproex): 2 tablets, taken
+- Depakote (divalproex): 2 × 250 mg tablets, totaling 500 mg, taken
 
 - Atorvastatin: taken
 
@@ -959,7 +820,7 @@ Notes
 
 - Mounjaro: weekly dose taken just after lunch
 
-- Omeprazole: 20 mg taken after lunch rather than before lunch as normally scheduled
+- Omeprazole: 20 mg, taken after lunch rather than before lunch as normally scheduled
 
 ### Hypoglycemic Episode
 
@@ -993,207 +854,73 @@ Notes
 
 - The weekly Mounjaro dose was taken just after lunch.
 
-- Blood pressure was low on two consecutive morning measurements. The first measurement also produced a possible irregular-heartbeat warning; the warning did not recur on the repeat measurement.
+- Blood pressure was low on 2 consecutive morning measurements. The first measurement also produced a possible irregular-heartbeat warning; the warning did not recur on the repeat measurement.
 
 - Melatonin supply is running low, and there is currently no money available to replace it.
 
 - Daily health-log entries will include measurements, medications, sleep, diet, and alcohol.
 
-Health Log — August 8, 2026
+---
 
-Morning
+## August 8, 2026
 
-Blood Glucose
+### Measurements
 
-• Fasting blood glucose: 112 mg/dL
+- Blood Glucose:
 
-Blood Pressure
+  - Fasting: 112 mg/dL
 
-• Blood pressure: 127/69 mmHg
-• Pulse: 63 bpm
-• Monitor indicated possible irregular heartbeat
+- Blood Pressure: 127/69 mmHg
 
-Pulse Oximeter
+- Pulse (Blood Pressure Monitor): 63 bpm
 
-• SpO₂: 95%
-• Pulse: 66 bpm
+  - Monitor indicated possible irregular heartbeat.
 
-Temperature
+- Oxygen Saturation: 95%
 
-• 98.0°F
+- Pulse (Oximeter): 66 bpm
 
-Weight
+- Temperature: 98.0°F
 
-• 263.8 lb
-
-Breakfast
-
-• Sugary cereal
-
-Medications
-
-• Last night’s medications: taken
-• Morning medications: taken
-  • Sertraline
-  • Atenolol
-  • Amlodipine
-  • Losartan
-  • Oxybutynin ER
-  • Depakote
-  • Low-dose aspirin
-• Allopurinol: not taken; supply exhausted
-• CVS arranged an early refill of Allopurinol
-• Allopurinol expected ready at 11:00 AM
-
-Alcohol
-
-• Alcohol consumed: 0
-
-Health Log — August 8, 2026
-
-Supersedes previous August 8, 2026 health log entry.
-
-Morning
-
-Blood Glucose
-
-Fasting blood glucose: 112 mg/dL
-
-Blood Pressure
-
-Blood pressure: 127/69 mmHg
-
-Pulse: 63 bpm
-
-Monitor indicated possible irregular heartbeat
-
-Pulse Oximeter
-
-SpO₂: 95%
-
-Pulse: 66 bpm
-
-Temperature
-
-98.0°F
-
-Weight
-
-263.8 lb
-
-Breakfast
-
-Sugary cereal
-
-Last Night's Medications
-
-Depakote: 500 mg
-
-Seroquel: 100 mg
-
-Melatonin: 10 mg
-
-Saphris: 20 mg
-
-Morning Medications
-
-Sertraline: 25 mg
-
-Atenolol: 100 mg
-
-Amlodipine: 10 mg
-
-Losartan: 100 mg
-
-Oxybutynin ER: 10 mg
-
-Depakote: 250 mg
-
-Low-dose aspirin: 81 mg
-
-Allopurinol: not taken; supply exhausted
-
-CVS arranged an early refill
-
-Expected ready at 11:00 AM
-
-Alcohol
-
-Alcohol consumed: 0
-
-# Health Log — August 8, 2026
-
-> **Supersedes previous August 8, 2026 health log entry.**
-
-## Morning
-
-### Blood Glucose
-
-- Fasting blood glucose: 112 mg/dL
-
-### Blood Pressure
-
-- Blood pressure: 127/69 mmHg
-
-- Pulse: 63 bpm
-
-- Monitor indicated possible irregular heartbeat
-
-### Pulse Oximeter
-
-- SpO₂: 95%
-
-- Pulse: 66 bpm
-
-### Temperature
-
-- 98.0°F
-
-### Weight
-
-- 263.8 lb
-
-### Breakfast
-
-- Sugary cereal
+- Weight: 263.8 lb
 
 ### Last Night's Medications
 
-- Depakote: 500 mg
+- Depakote: 2 × 250 mg tablets, totaling 500 mg, taken
 
-- Seroquel: 100 mg
+- Seroquel: 100 mg, taken
 
-- Melatonin: 10 mg
+- Melatonin: 10 mg, taken
 
-- Saphris: 20 mg
+- Saphris: 20 mg, taken
 
 ### Morning Medications
 
-- Sertraline: 25 mg
+- Sertraline: 25 mg, taken
 
-- Atenolol: 100 mg
+- Atenolol: 100 mg, taken
 
-- Amlodipine: 10 mg
+- Amlodipine: 10 mg, taken
 
-- Losartan: 100 mg
+- Losartan: 100 mg, taken
 
-- Oxybutynin ER: 10 mg
+- Oxybutynin ER: 10 mg, taken
 
-- Depakote: 250 mg
+- Depakote: 1 × 250 mg tablet, totaling 250 mg, taken
 
-- Low-dose aspirin: 81 mg
+- Low-dose aspirin: 81 mg, taken
 
 - Allopurinol: not taken; supply exhausted
 
-  - CVS arranged an early refill
+  - CVS arranged an early refill.
 
-  - Expected ready at 11:00 AM
+  - Expected ready at 11:00 am.
 
-### Alcohol
+### Diet Log
+
+- Breakfast: sugary cereal
+
+### Alcohol Log
 
 - Alcohol consumed: 0
-
-
-
-
 
