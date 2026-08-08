@@ -999,5 +999,55 @@ Notes
 
 - Daily health-log entries will include measurements, medications, sleep, diet, and alcohol.
 
+Health Log — August 8, 2026
+
+Morning
+
+Blood Glucose
+
+• Fasting blood glucose: 112 mg/dL
+
+Blood Pressure
+
+• Blood pressure: 127/69 mmHg
+• Pulse: 63 bpm
+• Monitor indicated possible irregular heartbeat
+
+Pulse Oximeter
+
+• SpO₂: 95%
+• Pulse: 66 bpm
+
+Temperature
+
+• 98.0°F
+
+Weight
+
+• 263.8 lb
+
+Breakfast
+
+• Sugary cereal
+
+Medications
+
+• Last night’s medications: taken
+• Morning medications: taken
+  • Sertraline
+  • Atenolol
+  • Amlodipine
+  • Losartan
+  • Oxybutynin ER
+  • Depakote
+  • Low-dose aspirin
+• Allopurinol: not taken; supply exhausted
+• CVS arranged an early refill of Allopurinol
+• Allopurinol expected ready at 11:00 AM
+
+Alcohol
+
+• Alcohol consumed: 0
+
 
 
