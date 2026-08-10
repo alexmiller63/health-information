@@ -924,3 +924,93 @@ Historical measurements recovered from Apple Health are incorporated into this l
 
 - Alcohol consumed: 0
 
+# Health Log — 2026-08-10
+
+## Last Night — 2026-08-09
+
+### Night Medications
+
+Taken:
+
+- Depakote — 2 × 250 mg tablets = 500 mg
+
+- Seroquel — 1 × 100 mg tablet = 100 mg
+
+- Melatonin — 10 mg
+
+- Atorvastatin
+
+- Saphris — 2 × 10 mg tablets = 20 mg — taken last
+
+### Alcohol
+
+- 1 green tea cocktail
+
+- 1 glass of Chardonnay
+
+### Sleep
+
+- Bedtime: 1:30 AM
+
+- Wake time: 9:00 AM
+
+- Time from bedtime to wake time: 7 hr 30 min
+
+## Morning — 2026-08-10
+
+### Morning Medications
+
+Taken:
+
+- Sertraline 25 mg
+
+- Atenolol 100 mg
+
+- Amlodipine 10 mg
+
+- Losartan 100 mg
+
+- Oxybutynin ER 10 mg
+
+- Depakote — 1 × 250 mg tablet = 250 mg
+
+- Low-dose aspirin 81 mg
+
+Not taken:
+
+- Allopurinol 300 mg — needs to be obtained from CVS
+
+Planned:
+
+- Omeprazole 20 mg — approximately 11:50 AM
+
+### Blood Glucose
+
+- Fasting blood glucose: approximately 119 mg/dL
+
+### Breakfast
+
+- Missed
+
+### Morning Measurements
+
+- Weight: approximately 265 lb
+
+- Blood pressure: pending until home
+
+- Pulse: pending until home
+
+- SpO₂: pending until home
+
+- Oximeter pulse: pending until home
+
+- Temperature: pending until home
+
+### Notes
+
+- Allopurinol was the missing morning medication.
+
+- CVS trip still needs to be arranged.
+
+
+
