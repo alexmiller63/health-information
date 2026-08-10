@@ -966,3 +966,211 @@ Historical measurements recovered from Apple Health are incorporated into this l
 
 - Procedure improvement: remove a test strip before lancing a finger to reduce the chance of contaminating unused test strips with blood.
 
+---
+
+## August 7, 2026
+
+> **Logging milestone:** August 7, 2026 is the first date on which diet and alcohol were systematically recorded as dedicated categories in this health log. The absence of Diet Log or Alcohol Log sections on earlier dates does not indicate that diet or alcohol was assessed and found to be absent; those categories had not yet been systematically logged.
+
+### Measurements
+
+- Blood Glucose:
+
+  - Fasting, before breakfast: measured, but reading was lost before it could be recorded; recalled as being in a good range
+
+  - Approximately 1 hour after breakfast: 296 mg/dL
+
+  - Afternoon, while experiencing dizziness: 67 mg/dL
+
+  - Approximately 15 minutes after eating Japanese peanuts: 76 mg/dL
+
+  - 3:31 pm, after subsequently eating 2 slices of whole-wheat bread: 108 mg/dL
+
+  - 6:10 pm: 140 mg/dL — approximately 2 hours 10 minutes after dinner
+
+- Blood Pressure:
+
+  - First reading: 101/57 mmHg, pulse 72 bpm
+
+    - Blood pressure monitor reported a possible irregular heartbeat.
+
+  - Repeat reading: 108/57 mmHg, pulse 66 bpm
+
+    - No irregular-heartbeat warning or other warning was reported on the repeat measurement.
+
+- Oxygen Saturation: 95%
+
+- Pulse: 67 bpm
+
+- Temperature: 97.7°F
+
+- Weight: 264.4 lb
+
+### Morning Medications
+
+- Sertraline: taken
+
+- Atenolol: taken
+
+- Amlodipine: taken
+
+- Losartan: taken
+
+- Allopurinol: not taken; supply exhausted and refill believed to have been ordered
+
+- Oxybutynin: taken
+
+- Depakote (divalproex): 250 mg, taken
+
+- Low-dose aspirin: taken
+
+### Previous Night's Medications
+
+- Depakote (divalproex): 2 × 250 mg tablets, totaling 500 mg, taken
+
+- Atorvastatin: taken
+
+- Seroquel (quetiapine): 100 mg, 1 tablet, taken
+
+- Melatonin: taken
+
+- Saphris (asenapine): taken
+
+### Sleep
+
+- Bedtime: approximately 1:30 am
+
+- Wake time: 7:25 am with alarm
+
+- Time in bed: approximately 5 hours 55 minutes
+
+- Sleep was mostly continuous, with a possible brief awakening to use the bathroom.
+
+- Felt alert and energetic after waking.
+
+- Teri Thomas independently commented that I sounded “bright-eyed and bushy-tailed.”
+
+### Diet Log
+
+- Breakfast: oatmeal
+
+- Lunch: whole-wheat bread turkey breast sandwich
+
+- During low-blood-glucose episode: Japanese peanuts
+
+- After glucose increased to 76 mg/dL: 2 slices of whole-wheat bread
+
+- Dinner: approximately 4:00 pm
+
+### Alcohol Log
+
+- None so far today.
+
+### Additional Medications
+
+- Mounjaro: weekly dose taken just after lunch
+
+- Omeprazole: 20 mg, taken after lunch rather than before lunch as normally scheduled
+
+### Hypoglycemic Episode
+
+- While lying down in the afternoon, experienced dizziness.
+
+- Blood glucose measured 67 mg/dL.
+
+- Ate Japanese peanuts from Valentine’s snack supply.
+
+- Dizziness subsequently resolved.
+
+- Repeat blood glucose was 76 mg/dL.
+
+- Ate 2 slices of whole-wheat bread.
+
+- Blood glucose measured 108 mg/dL at 3:31 pm.
+
+- This appears to be the first known episode of symptomatic low blood glucose.
+
+### Notes
+
+- Morning fasting blood glucose was taken before breakfast, but the numerical reading was lost before it could be recorded. It is recalled as having been in a good range.
+
+- A second blood glucose measurement approximately 1 hour after the oatmeal breakfast measured 296 mg/dL.
+
+- Blood glucose later fell to 67 mg/dL with dizziness and subsequently recovered to 108 mg/dL after food.
+
+- Dinner was eaten at approximately 4:00 pm.
+
+- Blood glucose measured 140 mg/dL at 6:10 pm, approximately 2 hours 10 minutes after dinner.
+
+- The weekly Mounjaro dose was taken just after lunch.
+
+- Blood pressure was low on 2 consecutive morning measurements. The first measurement also produced a possible irregular-heartbeat warning; the warning did not recur on the repeat measurement.
+
+- Melatonin supply is running low, and there is currently no money available to replace it.
+
+- Daily health-log entries will include measurements, medications, sleep, diet, and alcohol.
+
+---
+
+## August 8, 2026
+
+### Measurements
+
+- Blood Glucose:
+
+  - Fasting: 112 mg/dL
+
+- Blood Pressure: 127/69 mmHg
+
+- Pulse (Blood Pressure Monitor): 63 bpm
+
+  - Monitor indicated possible irregular heartbeat.
+
+- Oxygen Saturation: 95%
+
+- Pulse (Oximeter): 66 bpm
+
+- Temperature: 98.0°F
+
+- Weight: 263.8 lb
+
+### Last Night's Medications
+
+- Depakote: 2 × 250 mg tablets, totaling 500 mg, taken
+
+- Seroquel: 100 mg, taken
+
+- Melatonin: 10 mg, taken
+
+- Saphris: 20 mg, taken
+
+### Morning Medications
+
+- Sertraline: 25 mg, taken
+
+- Atenolol: 100 mg, taken
+
+- Amlodipine: 10 mg, taken
+
+- Losartan: 100 mg, taken
+
+- Oxybutynin ER: 10 mg, taken
+
+- Depakote: 1 × 250 mg tablet, totaling 250 mg, taken
+
+- Low-dose aspirin: 81 mg, taken
+
+- Allopurinol: not taken; supply exhausted
+
+  - CVS arranged an early refill.
+
+  - Expected ready at 11:00 am.
+
+### Diet Log
+
+- Breakfast: sugary cereal
+
+### Alcohol Log
+
+- Alcohol consumed: 0
+
