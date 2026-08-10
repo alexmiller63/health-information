@@ -1174,3 +1174,119 @@ Historical measurements recovered from Apple Health are incorporated into this l
 
 - Alcohol consumed: 0
 
+---
+
+## August 10, 2026
+
+> **Superseding entry:** This entry supersedes all previous health log entries labeled August 10, 2026.
+
+### Last Night
+
+#### Alcohol
+
+- 1 green tea cocktail
+
+- 1 glass of Chardonnay
+
+#### Night Medications
+
+- Depakote — 250 mg × 2 tablets (500 mg total)
+
+- Seroquel — 100 mg
+
+- Melatonin — 10 mg
+
+- Atorvastatin — 10 mg
+
+- Saphris — 10 mg × 2 tablets (20 mg total), taken last
+
+#### Sleep
+
+- Bedtime: approximately 1:30 AM
+
+- Wake time: approximately 9:00 AM
+
+- Total sleep: approximately 7 hours 30 minutes
+
+### Morning
+
+#### Breakfast
+
+- Missed breakfast
+
+#### Fasting Blood Glucose
+
+- Approximately 119 mg/dL
+
+#### Weight
+
+- Approximately 265 lb
+
+#### Morning Medications
+
+- Sertraline — 25 mg — taken
+
+- Atenolol — 100 mg — taken
+
+- Amlodipine — 10 mg — taken
+
+- Losartan — 100 mg — taken
+
+- Oxybutynin ER — 10 mg — taken
+
+- Depakote — 250 mg — taken
+
+- Low-dose aspirin — 81 mg — taken
+
+- Allopurinol — 300 mg — initially unavailable; obtained from the pharmacy and taken later
+
+#### Morning Supplies
+
+- Morning supplies checked and refilled
+
+### Off-Sequence Medications
+
+#### Omeprazole
+
+- Omeprazole — 20 mg
+
+- Normal scheduled time: 11:00 AM, one hour before lunch
+
+- Taken today at 1:20 PM
+
+#### Prednisolone Acetate Eye Drops
+
+- Normal scheduled times: 7:55 AM and 8:00 PM
+
+- Morning timing allows the one-minute eyes-closed period before 8:00 AM breakfast
+
+- Afternoon dose taken today
+
+- Administered while lying down
+
+- Eyes kept closed for one minute after administration
+
+- Bottle stored next to omeprazole because both medications are outside the normal morning and evening medication sequences
+
+### Measurements After Returning Home
+
+A second set of blood pressure, oximeter, and temperature measurements was taken after returning home, but the exact readings were lost from the conversation.
+
+#### Third Measurement Set
+
+- Blood pressure: 99/60 mmHg
+
+- Pulse: 75 bpm
+
+- Irregular-heartbeat indicator: detected
+
+- SpO₂: 94%
+
+- Oximeter pulse: 73 bpm
+
+- Temperature: 97.8°F
+
+### Still To Do
+
+- Clean mouth guard
+
