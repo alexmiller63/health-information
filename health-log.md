@@ -1100,3 +1100,91 @@ Planned:
 
 - Refill/check morning supplies as needed
 
+# Health Log — August 10, 2026
+
+## Last Night
+
+### Alcohol
+
+- 1 green tea cocktail
+
+- 1 glass of Chardonnay
+
+### Night Medications
+
+- Depakote — 250 mg × 2 tablets (500 mg total)
+
+- Seroquel — 100 mg
+
+- Melatonin — 10 mg
+
+- Atorvastatin
+
+- Saphris — 10 mg × 2 tablets (20 mg total), taken last
+
+### Sleep
+
+- Bedtime: approximately 1:30 AM
+
+- Wake time: approximately 9:00 AM
+
+- Total sleep: approximately 7 hours 30 minutes
+
+## Morning
+
+### Breakfast
+
+- Missed breakfast
+
+### Fasting Blood Glucose
+
+- Approximately 119 mg/dL
+
+### Weight
+
+- Approximately 265 lb
+
+### Morning Medications Taken
+
+- Sertraline — 25 mg
+
+- Atenolol — 100 mg
+
+- Amlodipine — 10 mg
+
+- Losartan — 100 mg
+
+- Oxybutynin ER — 10 mg
+
+- Depakote — 250 mg
+
+- Low-dose aspirin — 81 mg
+
+### Morning Medication Not Taken
+
+- Allopurinol — 300 mg
+
+  - Not available; needs to be picked up from CVS.
+
+## Midday
+
+### Omeprazole
+
+- Omeprazole — 20 mg
+
+- Planned for approximately 11:50 AM
+
+## Still To Do
+
+- Blood pressure
+
+- Oximeter
+
+- Temperature
+
+- Weight confirmation when home
+
+- Clean mouth guard
+
+- Refill/check morning supplies as needed
+
