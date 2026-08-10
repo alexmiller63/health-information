@@ -374,3 +374,91 @@ logging:
 
       - make_only_requested_or_approved_changes
 
+publication_workflows:
+
+  full_health_log_replacement:
+
+    purpose: "Used after importing the current health log from GitHub and making approved global edits."
+
+    input:
+
+      - current_complete_health_log_from_github
+
+      - approved_global_changes
+
+    output:
+
+      type: complete_replacement_health_log
+
+      format: raw_selectable_markdown_source
+
+      render_markdown: false
+
+      preserve_unapproved_content: true
+
+      dont_mung: true
+
+    delivery:
+
+      may_require_multiple_parts: true
+
+      rule: "If the complete replacement is too large for reliable copying, divide it into sequential selectable Markdown parts."
+
+      part_requirements:
+
+        - preserve_exact_order
+
+        - clearly_label_each_part
+
+        - state_where_the_next_part_begins
+
+        - do_not_repeat_or_omit_entries_between_parts
+
+      completion_rule: "The replacement operation is complete only after all parts have been delivered and pasted."
+
+  daily_health_log_append:
+
+    purpose: "Used for the normal daily publication of a new health-log entry into the existing GitHub health log."
+
+    input:
+
+      - health_routine_yaml
+
+      - facts_recorded_during_the_day
+
+    output:
+
+      type: daily_health_log_entry
+
+      format: raw_selectable_markdown_source
+
+      render_markdown: false
+
+      dont_mung: true
+
+    delivery:
+
+      rule: "Return only the Markdown source needed for the new daily entry, ready to paste into the end of health-log.md."
+
+      include_complete_existing_health_log: false
+
+    superseding_entry:
+
+      use_when: "A later entry for the same date replaces one or more earlier entries."
+
+      notation: "> **Superseding entry:** This entry supersedes all previous health log entries labeled for this date."
+
+raw_markdown_output:
+
+  rule: "When content is intended for GitHub, provide the underlying selectable Markdown source, not rendered or decorative Markdown."
+
+  preferred_container: fenced_markdown_code_block
+
+  avoid:
+
+    - writing_blocks
+
+    - rendered_headings_as_the_only_copy
+
+    - prose_mixed_inside_the_copyable_markdown
+
