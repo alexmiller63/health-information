@@ -730,3 +730,239 @@ Historical measurements recovered from Apple Health are incorporated into this l
 
 - Historical measurements recovered from Apple Health. See `apple-health.md` for the complete raw export.
 
+---
+
+## August 2, 2026
+
+### Morning Medications
+
+- Sertraline: taken
+
+- Atenolol: taken
+
+- Amlodipine: taken
+
+- Losartan/Hydrochlorothiazide: taken
+
+- Allopurinol: taken; last tablet taken, refill already ordered
+
+- Oxybutynin ER: taken
+
+- Divalproex: taken
+
+- Low-dose aspirin: taken
+
+### Measurements
+
+- Blood Pressure: 122/63 mmHg
+
+- Pulse: 68 bpm
+
+- Oxygen Saturation: 94%
+
+- Pulse (Oximeter): 68 bpm
+
+- Temperature: 97.8°F
+
+- Weight: 257.6 lb
+
+### Diet Log
+
+- Not recorded.
+
+### Alcohol Log
+
+- Not recorded.
+
+---
+
+## August 4, 2026
+
+### Morning Medications
+
+- Sertraline: taken
+
+- Atenolol: taken
+
+- Amlodipine: taken
+
+- Losartan: taken
+
+- Allopurinol: not taken; unavailable, refill expected August 5
+
+- Oxybutynin ER: taken
+
+- Divalproex: taken
+
+- Low-dose aspirin: taken
+
+### Measurements
+
+- Blood Glucose: Not recorded
+
+- Blood Pressure: 154/73 mmHg
+
+- Pulse: 66 bpm
+
+- Oxygen Saturation: 95%
+
+- Pulse (Oximeter): 69 bpm
+
+- Temperature: 98.2°F
+
+- Weight: 265.0 lb
+
+### Diet Log
+
+- Not recorded.
+
+### Alcohol Log
+
+- Not recorded.
+
+### Notes
+
+- Blood pressure monitor reported a possible irregular heartbeat.
+
+- Breakfast was completed before morning medications.
+
+- Weight is recorded last so all seated measurements can be completed before standing.
+
+---
+
+## August 5, 2026
+
+### Previous Evening Medications — August 4
+
+- Depakote (divalproex): 500 mg (2 × 250 mg tablets), taken
+
+- Seroquel (quetiapine): 100 mg (2 × 50 mg tablets), taken
+
+- Melatonin: 10 mg, taken
+
+- Saphris (asenapine): 20 mg (2 × 10 mg sublingual tablets), taken
+
+### Morning Medications
+
+- Sertraline: taken
+
+- Atenolol: taken
+
+- Amlodipine: taken
+
+- Losartan: taken
+
+- Oxybutynin ER: taken
+
+- Allopurinol: taken
+
+- Divalproex: taken
+
+- Low-dose aspirin: taken
+
+### Midday Medication
+
+- Omeprazole: 20 mg, taken before lunch
+
+### Measurements
+
+- Blood Glucose: 115 mg/dL
+
+- Blood Pressure: 120/64 mmHg
+
+- Pulse: 64 bpm
+
+- Oxygen Saturation: 95%
+
+- Pulse (Oximeter): 64 bpm
+
+- Temperature: 97.9°F
+
+- Weight: 260.4 lb
+
+### Diet Log
+
+- Not recorded.
+
+### Alcohol Log
+
+- Not recorded.
+
+### Notes
+
+- Picked up omeprazole 20 mg capsules and resumed taking 1 capsule before a meal. The usual schedule is 11:00 am, approximately 1 hour before lunch.
+
+- Picked up Seroquel 100 mg tablets. Beginning tonight, the nightly 100 mg dose will be taken as 1 × 100 mg tablet instead of 2 × 50 mg tablets.
+
+- Successfully used the new glucose meter after the pharmacist configured it.
+
+- The glucose meter stores readings and calculates rolling 7-day, 14-day, and 30-day averages. All 3 currently display 115 mg/dL based on 1 reading.
+
+- Lancing-device setting 1 did not produce enough blood. Setting 3 produced more blood than necessary and required a bandage. The next test will use approximately setting 2.5.
+
+- The blood-pressure monitor's stored history was accidentally cleared while reviewing its memory.
+
+- The first home-scale reading was 211.0 lb. A repeat reading within a few minutes was 260.4 lb, consistent with the weight measured at the physician's office. The 211.0 lb reading is documented as a scale error and was not used as the official weight.
+
+- Historical Apple Health measurements were merged into this log. The complete raw source remains in `apple-health.md`.
+
+---
+
+## August 6, 2026
+
+### Morning Medications
+
+- Omeprazole: 20 mg, taken before lunch
+
+- Sertraline: 25 mg, taken
+
+- Atenolol: 100 mg, taken
+
+- Amlodipine: 10 mg, taken
+
+- Losartan: 100 mg, taken
+
+- Oxybutynin ER: 10 mg, taken
+
+- Allopurinol: 300 mg, not taken; out of medication, need to contact CVS for a refill
+
+- Depakote: 250 mg, taken
+
+- Aspirin: 81 mg, taken
+
+### Measurements
+
+- Blood Glucose (fasting): 117 mg/dL
+
+- Blood Pressure: 133/69 mmHg
+
+- Pulse (Sphygmomanometer): 64 bpm
+
+- Oxygen Saturation: 92%
+
+- Pulse (Oximeter): 64 bpm
+
+- Temperature: 98.0°F
+
+- Weight: 261.0 lb
+
+### Diet Log
+
+- Not recorded.
+
+### Alcohol Log
+
+- Not recorded.
+
+### Notes
+
+- Slept approximately 12 hours. Awakened by a phone call rather than waking naturally, but still felt well rested.
+
+- Attended diabetic retinopathy examination. Measurements were taken. Sprinter Health indicated they would notify Molina that they can perform a wellness check.
+
+- Received information about the Santa Central “100 Days to Sleigh” health challenge and forwarded it to Cindy.
+
+- Glucose meter is initially difficult to slide into its protective sleeve. Repeated insertions may loosen the fit over time.
+
+- Procedure improvement: remove a test strip before lancing a finger to reduce the chance of contaminating unused test strips with blood.
+
