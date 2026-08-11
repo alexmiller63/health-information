@@ -1290,3 +1290,77 @@ A second set of blood pressure, oximeter, and temperature measurements was taken
 
 - Clean mouth guard
 
+# Health Log — August 11, 2026
+
+## Sleep
+
+- Bedtime: approximately 1:30 AM
+
+- Fully awake: 7:00 AM
+
+- Sleep window: approximately 5 hours 30 minutes
+
+- Several awakenings before fully waking
+
+## Nighttime Medications — August 10, 2026
+
+- Depakote: 2 × 250 mg tablets — 500 mg total
+
+- Atorvastatin: 10 mg
+
+- Seroquel: 1 × 100 mg tablet — 100 mg total
+
+- Melatonin: 10 mg, dissolving, taken immediately before Saphris
+
+- Saphris: 2 × 10 mg sublingual tablets — 20 mg total; taken last
+
+## Morning Blood Glucose
+
+- Fasting blood glucose: 108 mg/dL
+
+## Morning Measurements
+
+- Blood pressure: 110/71 mmHg
+
+- Blood-pressure monitor pulse: 78 bpm
+
+- Oxygen saturation: 95%
+
+- Oximeter pulse: 74 bpm
+
+- Temperature: approximately 99.4°F
+
+  - Thermometer displayed a yellow indicator
+
+  - Exact temperature recalled from memory
+
+- Weight: 264.4 lb
+
+## Morning Medications
+
+- Sertraline 25 mg
+
+- Atenolol 100 mg
+
+- Amlodipine 10 mg
+
+- Losartan 100 mg
+
+- Allopurinol 300 mg
+
+- Oxybutynin ER 10 mg
+
+- Depakote 250 mg
+
+- Low-dose aspirin 81 mg
+
+## Notes
+
+- Nighttime medications completed.
+
+- Morning medications completed.
+
+- Morning measurements completed.
+
+- Temperature was elevated and the thermometer displayed a yellow indicator.
+
