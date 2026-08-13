@@ -1,0 +1,226 @@
+medications:
+
+  morning:
+
+    - name: Sertraline
+
+      generic_name: sertraline
+
+      dose: 25
+
+      unit: mg
+
+      route: oral
+
+    - name: Atenolol
+
+      generic_name: atenolol
+
+      dose: 100
+
+      unit: mg
+
+      route: oral
+
+    - name: Amlodipine
+
+      generic_name: amlodipine
+
+      dose: 10
+
+      unit: mg
+
+      route: oral
+
+    - name: Losartan
+
+      generic_name: losartan
+
+      dose: 100
+
+      unit: mg
+
+      route: oral
+
+    - name: Allopurinol
+
+      generic_name: allopurinol
+
+      dose: 300
+
+      unit: mg
+
+      route: oral
+
+    - name: Oxybutynin ER
+
+      generic_name: oxybutynin
+
+      formulation: extended_release
+
+      dose: 10
+
+      unit: mg
+
+      route: oral
+
+    - name: Depakote
+
+      generic_name: divalproex
+
+      formulation: delayed_release
+
+      tablet_strength: 250
+
+      tablet_strength_unit: mg
+
+      tablets: 1
+
+      dose: 250
+
+      unit: mg
+
+      route: oral
+
+      sequence_note: "Take before low-dose aspirin."
+
+    - name: Low-dose aspirin
+
+      generic_name: aspirin
+
+      dose: 81
+
+      unit: mg
+
+      route: oral
+
+  before_lunch:
+
+    - name: Omeprazole
+
+      generic_name: omeprazole
+
+      dose: 20
+
+      unit: mg
+
+      route: oral
+
+      timing: "Before lunch."
+
+  evening:
+
+    - name: Depakote
+
+      generic_name: divalproex
+
+      formulation: delayed_release
+
+      tablet_strength: 250
+
+      tablet_strength_unit: mg
+
+      tablets: 2
+
+      dose: 500
+
+      unit: mg
+
+      route: oral
+
+    - name: Atorvastatin
+
+      generic_name: atorvastatin
+
+      dose: 10
+
+      unit: mg
+
+      route: oral
+
+    - name: Seroquel
+
+      generic_name: quetiapine
+
+      tablet_strength: 100
+
+      tablet_strength_unit: mg
+
+      tablets: 1
+
+      dose: 100
+
+      unit: mg
+
+      route: oral
+
+    - name: Melatonin
+
+      generic_name: melatonin
+
+      dose: 10
+
+      unit: mg
+
+      route: oral
+
+    - name: Saphris
+
+      generic_name: asenapine
+
+      tablet_strength: 10
+
+      tablet_strength_unit: mg
+
+      tablets: 2
+
+      dose: 20
+
+      unit: mg
+
+      route: sublingual
+
+      sequence_note: "Take last."
+
+  eye_drops:
+
+    - name: Prednisolone acetate
+
+      generic_name: prednisolone_acetate
+
+      formulation: ophthalmic_suspension
+
+      concentration: "1%"
+
+      dose:
+
+        amount: 1
+
+        unit: drop
+
+        each_eye: true
+
+      route: ophthalmic
+
+      frequency: twice_daily
+
+      interval_hours: 12
+
+      timing_note: "Keep doses approximately 12 hours apart. If a dose is taken several hours late, shift the next dose correspondingly later to preserve the 12-hour interval."
+
+  weekly:
+
+    - name: Mounjaro
+
+      generic_name: tirzepatide
+
+      dose: 7.5
+
+      unit: mg
+
+      route: subcutaneous
+
+      frequency: weekly
+
+      day: Thursday
+
