@@ -2,6 +2,26 @@ medications:
 
   morning:
 
+    - name: Depakote
+
+      generic_name: divalproex
+
+      formulation: delayed_release
+
+      tablet_strength: 250
+
+      tablet_strength_unit: mg
+
+      tablets: 2
+
+      dose: 500
+
+      unit: mg
+
+      route: oral
+
+      sequence_note: "Take first in the morning medication sequence."
+
     - name: Sertraline
 
       generic_name: sertraline
@@ -32,11 +52,15 @@ medications:
 
       route: oral
 
-    - name: Losartan
+    - name: Losartan-HCTZ
 
-      generic_name: losartan
+      generic_name: losartan_hydrochlorothiazide
 
-      dose: 100
+      dose:
+
+        losartan: 100
+
+        hydrochlorothiazide: 12.5
 
       unit: mg
 
@@ -63,26 +87,6 @@ medications:
       unit: mg
 
       route: oral
-
-    - name: Depakote
-
-      generic_name: divalproex
-
-      formulation: delayed_release
-
-      tablet_strength: 250
-
-      tablet_strength_unit: mg
-
-      tablets: 1
-
-      dose: 250
-
-      unit: mg
-
-      route: oral
-
-      sequence_note: "Take before low-dose aspirin."
 
     - name: Low-dose aspirin
 
