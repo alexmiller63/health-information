@@ -44,45 +44,63 @@
 
 ## Morning Medications
 
-### Taken
+### Taken — New Sequence
 
-- Depakote — 500 mg (2 × 250 mg)
+1. Depakote — 500 mg (2 × 250 mg)
 
-- Sertraline — 25 mg
+2. Sertraline — 25 mg
 
-- Atenolol — 100 mg
+3. Atenolol — 100 mg
 
-- Amlodipine — 10 mg
+4. Amlodipine — 10 mg
 
-- Losartan — 100 mg
+5. Losartan-HCTZ — 100 mg/12.5 mg
 
-- Allopurinol — 300 mg
+6. Allopurinol — 300 mg
 
-- Oxybutynin ER — 10 mg
+7. Oxybutynin ER — 10 mg
 
-- Aspirin — 81 mg
+8. Low-dose aspirin — 81 mg
+
+- Prednisolone acetate eye drops — morning dose taken
 
 ### Pending
 
-- Prednisolone acetate eye drops — morning dose
-
 - Omeprazole — 20 mg, planned for 11:00 AM before lunch
 
-## Medication Change
+## Medication Changes
 
-Depakote morning dose has been increased to:
+### Depakote Dose
 
-- Morning: 500 mg (2 × 250 mg)
+Depakote is now:
 
-- Evening: 500 mg (2 × 250 mg)
+- Morning — 500 mg (2 × 250 mg)
 
-- Total daily dose: 1,000 mg
+- Evening — 500 mg (2 × 250 mg)
+
+- Total daily dose — 1,000 mg
+
+### Morning Medication Sequence
+
+Depakote has been moved to the **first position** in the morning medication sequence.
+
+Reason: the morning dose recently changed from one tablet to two tablets. Moving Depakote to a new position provides a reminder that something about the medication has changed and helps reinforce taking both tablets.
+
+### Losartan-HCTZ Correction
+
+Current medication confirmed as:
+
+**Losartan-HCTZ — 100 mg/12.5 mg**
+
+This corrects the earlier record that listed plain losartan.
 
 ## Notes
 
-Discussed the possibility of lithium being added to the existing medication regimen. No lithium has been started. Plan is to discuss it further if Gloria raises it at a future visit.
+Discussed the possibility of lithium being added to the existing medication regimen. No lithium has been started.
+
+Because the current blood-pressure medication contains hydrochlorothiazide (HCTZ), this interaction would need to be specifically discussed with the prescriber if lithium is considered.
 
 ---
 
-**Report status:** Morning report in progress. Update later today after pending medications and additional observations are recorded.
+**Report status:** Morning measurements and routine completed. Omeprazole remains scheduled for 11:00 AM before lunch. Additional information can be added later today.
 
