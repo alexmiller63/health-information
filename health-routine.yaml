@@ -172,6 +172,14 @@ medications:
 
   morning:
 
+    - name: Depakote
+
+      dose: "500 mg"
+
+      tablets: 2
+
+      sequence_note: "Taken first in the morning medication sequence."
+
     - name: Sertraline
 
       dose: "25 mg"
@@ -184,9 +192,9 @@ medications:
 
       dose: "10 mg"
 
-    - name: Losartan
+    - name: Losartan-HCTZ
 
-      dose: "100 mg"
+      dose: "100 mg/12.5 mg"
 
     - name: Allopurinol
 
@@ -196,17 +204,9 @@ medications:
 
       dose: "10 mg"
 
-    - name: Depakote
-
-      dose: "250 mg"
-
-      tablets: 1
-
     - name: Low-dose aspirin
 
       dose: "81 mg"
-
-      sequence_note: "Taken after Depakote."
 
   off_sequence:
 
