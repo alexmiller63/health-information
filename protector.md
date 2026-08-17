@@ -24,6 +24,24 @@
 
 | Weight | 261.6 lb |
 
+## Sleep
+
+**Usual bedtime:** approximately 11:00 PM
+
+**Previous night's bedtime:** approximately 1:30 AM
+
+**Wake time:** 7:30 AM
+
+**Overnight sleep:** approximately 6 hours
+
+**Nap:** approximately 1 hour before lunch
+
+**Approximate total sleep:** 7 hours
+
+## Alcohol
+
+**Previous night:** 1 cocktail
+
 ## Previous Night's Medications
 
 ### Taken
@@ -36,7 +54,7 @@
 
 - Melatonin — 10 mg
 
-- Atorvastatin — dosage not currently recorded
+- Atorvastatin — 10 mg
 
 ### Missed
 
@@ -64,9 +82,7 @@
 
 - Prednisolone acetate eye drops — morning dose taken
 
-### Pending
-
-- Omeprazole — 20 mg, planned for 11:00 AM before lunch
+- Omeprazole — 20 mg, taken before lunch
 
 ## Medication Changes
 
@@ -102,5 +118,5 @@ Because the current blood-pressure medication contains hydrochlorothiazide (HCTZ
 
 ---
 
-**Report status:** Morning measurements and routine completed. Omeprazole remains scheduled for 11:00 AM before lunch. Additional information can be added later today.
+**Report status:** Morning measurements and routine completed. Omeprazole taken before lunch. Sleep, nap, and previous-night alcohol intake documented. Additional information can be added later today.
 
