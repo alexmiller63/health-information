@@ -1,464 +1,293 @@
 # health-routine.yaml
-
 #
-
 # Defines the normal health routine and health-log conventions.
-
 # This file describes what is SUPPOSED to happen.
-
 # health-log.md records what ACTUALLY happened.
-
 #
-
 # A deviation in the daily log does not modify this routine.
 
 routine:
-
   wake_time: "07:30"
-
   breakfast_time: "08:00"
-
   lunch_time: "12:00"
-
   dinner_time: "16:30"
 
 morning:
-
   initial_tasks:
-
     - put_flashlight_in_pocket
-
     - put_glasses_on
-
     - put_mouth_guard_in_case
-
     - turn_room_light_on
 
   fasting_blood_glucose:
-
     timing: before_breakfast
-
     required: true
-
     fallback: "If breakfast is missed and fasting blood glucose has not already been measured, blood glucose becomes the first measurement in the normal morning measurement sequence."
 
   breakfast:
-
     scheduled_time: "08:00"
 
   after_breakfast:
-
     - brush_teeth
-
     - clean_mouth_guard
 
   breakfast_bag:
-
     - travel_kit
-
     - water_bottle
-
     - toilet_paper
 
   water_bottle:
-
     action: refill_as_needed
 
 measurements:
-
   normal_order:
-
     - blood_glucose_if_not_already_measured
-
     - blood_pressure
-
     - oxygen_saturation
-
     - temperature
-
     - weight
 
   blood_glucose:
-
     condition: "Measure first if breakfast was missed and fasting blood glucose was not already measured."
-
     note: "This is a fallback for the normal pre-breakfast fasting blood glucose measurement, not a second required glucose measurement."
 
   blood_pressure:
-
     position: seated
-
     record:
-
       - systolic
-
       - diastolic
-
       - pulse
-
       - irregular_heartbeat_indicator
 
   oximeter:
-
     position: seated
-
     record:
-
       - oxygen_saturation
-
       - pulse
 
   temperature:
-
     record:
-
       - temperature
 
   weight:
-
     order: last
-
     reason: "Complete seated measurements before standing."
 
 glucose_testing:
-
   procedure:
-
     - remove_test_strip_before_lancing
-
     - lance_finger
-
     - apply_blood_to_test_strip
-
     - record_reading
 
   supplies:
-
     check_and_refill:
-
       - test_strips
-
       - lancets
 
 medications:
-
   naming_convention:
-
     depakote:
-
       log_name: Depakote
-
       generic_name: divalproex
-
       dispensed: generic
 
     seroquel:
-
       log_name: Seroquel
-
       generic_name: quetiapine
-
       dispensed: generic
 
     saphris:
-
       log_name: Saphris
-
       generic_name: asenapine
-
       dispensed: brand_name
-
       note: "Brand-name Saphris is preferred over generic asenapine because its packaging is substantially easier to open and administer."
 
   morning:
-
     - name: Depakote
-
       dose: "500 mg"
-
       tablets: 2
-
       sequence_note: "Taken first in the morning medication sequence."
 
     - name: Sertraline
-
       dose: "25 mg"
 
     - name: Atenolol
-
       dose: "100 mg"
 
     - name: Amlodipine
-
       dose: "10 mg"
 
     - name: Losartan-HCTZ
-
       dose: "100 mg/12.5 mg"
 
     - name: Allopurinol
-
       dose: "300 mg"
 
     - name: Oxybutynin ER
-
       dose: "10 mg"
 
     - name: Low-dose aspirin
-
       dose: "81 mg"
 
   off_sequence:
-
     omeprazole:
-
       dose: "20 mg"
-
       scheduled_time: "11:00"
-
       timing_note: "One hour before lunch."
 
     prednisolone_acetate_eye_drops:
-
       scheduled_times:
-
         - "07:55"
-
         - "20:00"
-
       administration:
-
         position: lying_down
-
         after_dose:
-
           eyes_closed_seconds: 60
-
       morning_timing_note: "Scheduled at 07:55 to allow the one-minute eyes-closed period before 08:00 breakfast."
-
       storage_note: "Stored next to omeprazole."
 
   night:
-
     - name: Depakote
-
       dose_per_tablet: "250 mg"
-
       tablets: 2
-
       total_dose: "500 mg"
 
     - name: Seroquel
-
       dose: "100 mg"
-
       tablets: 1
 
     - name: Melatonin
-
       dose: "10 mg"
 
     - name: Atorvastatin
-
       dose: "10 mg"
 
     - name: Saphris
-
       dose_per_tablet: "10 mg"
-
       tablets: 2
-
       total_dose: "20 mg"
-
       sequence_note: "Taken last."
 
   weekly:
-
     mounjaro:
-
       dose: "7.5 mg"
-
       day: Thursday
-
       frequency: weekly
 
 logging:
-
   principle:
-
     routine_file: "Defines the expected routine."
-
     daily_log: "Records what actually happened."
 
+  day_boundary:
+    convention: overnight_to_day
+    rule: "The previous night's medications, sleep, and alcohol are included in the following calendar day's Daily Health Log entry."
+    sequence:
+      - previous_night_medications
+      - sleep
+      - previous_night_alcohol
+      - morning_measurements
+      - morning_medications
+      - diet
+      - current_day_alcohol
+      - later_medications
+      - notes
+
   do_not_infer:
-
     - measurements
-
     - medication_taken_status
-
     - medication_time
-
     - meals
-
     - alcohol_consumption
-
     - sleep_times
 
   missing_information:
-
     rule: "Record information as not recorded or unknown rather than guessing."
 
   diet:
-
     systematically_logged_since: "2026-08-07"
-
     before_systematic_logging: "Not recorded."
-
     rule: "Not recorded is different from no food consumed."
 
   alcohol:
-
     systematically_logged_since: "2026-08-07"
-
     before_systematic_logging: "Not recorded."
-
     rule: "Not recorded is different from zero alcohol consumed."
 
   sleep:
-
     record:
-
       - bedtime
-
       - wake_time
-
       - duration_or_time_in_bed
-
       - relevant_sleep_notes
 
   medications:
-
     record_actual_status: true
-
     record_actual_time_when_known: true
-
     rule: "A scheduled medication is not recorded as taken unless it was actually reported as taken."
 
   measurements:
-
     record_actual_values_only: true
-
     preserve_device_warnings: true
-
     device_warning_examples:
-
       - irregular_heartbeat_indicator
 
   superseding_entries:
-
     rule: "When a daily entry explicitly supersedes previous entries for the same date, the superseding entry is authoritative."
 
   editing:
-
     dont_mung: true
-
     rules:
-
       - preserve_concrete_facts
-
       - preserve_distinction_between_observed_and_approximate
-
       - preserve_distinction_between_not_recorded_and_zero
-
       - do_not_silently_correct_or_infer
-
       - make_only_requested_or_approved_changes
 
 publication_workflows:
-
   full_health_log_replacement:
-
     purpose: "Used after importing the current health log from GitHub and making approved global edits."
-
     input:
-
       - current_complete_health_log_from_github
-
       - approved_global_changes
-
     output:
-
       type: complete_replacement_health_log
-
       format: raw_selectable_markdown_source
-
       render_markdown: false
-
       preserve_unapproved_content: true
-
       dont_mung: true
-
     delivery:
-
       may_require_multiple_parts: true
-
       rule: "If the complete replacement is too large for reliable copying, divide it into sequential selectable Markdown parts."
-
       part_requirements:
-
         - preserve_exact_order
-
         - clearly_label_each_part
-
         - state_where_the_next_part_begins
-
         - do_not_repeat_or_omit_entries_between_parts
-
       completion_rule: "The replacement operation is complete only after all parts have been delivered and pasted."
 
   daily_health_log_append:
-
     purpose: "Used for the normal daily publication of a new health-log entry into the existing GitHub health log."
-
     input:
-
       - health_routine_yaml
-
       - facts_recorded_during_the_day
-
     output:
-
       type: daily_health_log_entry
-
       format: raw_selectable_markdown_source
-
       render_markdown: false
-
       dont_mung: true
-
     delivery:
-
       rule: "Return only the Markdown source needed for the new daily entry, ready to paste into the end of health-log.md."
-
       include_complete_existing_health_log: false
-
     superseding_entry:
-
       use_when: "A later entry for the same date replaces one or more earlier entries."
-
       notation: "> **Superseding entry:** This entry supersedes all previous health log entries labeled for this date."
 
 raw_markdown_output:
-
   rule: "When content is intended for GitHub, provide the underlying selectable Markdown source, not rendered or decorative Markdown."
-
   preferred_container: fenced_markdown_code_block
-
   avoid:
-
     - writing_blocks
-
     - rendered_headings_as_the_only_copy
-
     - prose_mixed_inside_the_copyable_markdown
-
