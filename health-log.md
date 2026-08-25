@@ -1552,4 +1552,53 @@ Because the current blood-pressure medication contains hydrochlorothiazide (HCTZ
 
 **Report status:** Morning measurements and routine completed. Omeprazole taken before lunch. Sleep, nap, and previous-night alcohol intake documented. Additional information can be added later today.
 
+## 2026-08-25
+
+### Previous night medications
+- Depakote — 500 mg — taken.
+- Seroquel — 100 mg — taken.
+- Melatonin — 10 mg — taken.
+- Atorvastatin — 10 mg — taken.
+- Saphris — 20 mg — taken.
+
+### Sleep
+- Bedtime: 12:30 AM.
+- Wake time: 7:30 AM.
+- Time in bed: 7 hours.
+
+### Previous night alcohol
+- 0.
+
+### Morning measurements
+- Fasting blood glucose: 94 mg/dL.
+- Blood pressure: 108/62 mmHg.
+- Blood-pressure pulse: 77 bpm.
+- Irregular-heartbeat indicator: not reported.
+- Oxygen saturation: 95%.
+- Oximeter pulse: 86 bpm.
+- Temperature: 97.6°F.
+- Weight: 259.4 lb.
+
+### Morning medications
+- Depakote — 500 mg — taken.
+- Sertraline — 25 mg — taken.
+- Atenolol — 100 mg — taken.
+- Amlodipine — 10 mg — taken.
+- Losartan-HCTZ — 100 mg/12.5 mg — taken.
+- Allopurinol — 300 mg — taken.
+- Oxybutynin ER — 10 mg — taken.
+- Low-dose aspirin — 81 mg — taken.
+
+### Diet
+- Breakfast: oatmeal with honey.
+
+### Current day alcohol
+- 0.
+
+### Later medications
+- Omeprazole — 20 mg — not recorded.
+
+### Notes
+- Prednisolone acetate 1% eye drops not taken this morning; course believed complete after approximately 7 days.
+
 
