@@ -194,6 +194,56 @@ logging:
       - later_medications
       - notes
 
+  daily_report_requirements:
+    sections:
+      - previous_night_medications
+      - sleep
+      - previous_night_alcohol
+      - morning_measurements
+      - morning_medications
+      - diet
+      - current_day_alcohol
+      - later_medications
+      - notes
+
+    medications:
+      rule: "Do not summarize medication groups with phrases such as 'all scheduled medications taken.' List each medication individually."
+      each_entry_must_include:
+        - medication_name
+        - dose
+        - actual_status
+      actual_status_examples:
+        - taken
+        - not_taken
+        - not_recorded
+      timing:
+        rule: "Include actual time when known. Do not infer medication time."
+
+    sleep:
+      always_include: true
+      record_when_known:
+        - bedtime
+        - wake_time
+        - duration_or_time_in_bed
+        - relevant_sleep_notes
+      missing_information: "Use not recorded or unknown rather than inferring."
+
+    alcohol:
+      always_include:
+        - previous_night_alcohol
+        - current_day_alcohol
+      rule: "Record 0 explicitly when Alexander reports zero. Use not recorded when no amount has been reported. Do not treat not recorded as zero."
+
+    measurements:
+      rule: "Include each actual measurement reported for the day. Do not infer missing measurements."
+
+    diet:
+      always_include: true
+      rule: "Record only food actually reported. Use not recorded when meal information is missing."
+
+    completeness:
+      rule: "A daily report should retain all standard sections even when some sections contain not recorded values."
+
   do_not_infer:
     - measurements
     - medication_taken_status
