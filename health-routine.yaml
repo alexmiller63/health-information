@@ -207,7 +207,13 @@ logging:
       - notes
 
     medications:
-      rule: "Do not summarize medication groups with phrases such as 'all scheduled medications taken.' List each medication individually."
+      rule: "Never summarize or collapse a medication group. Every scheduled medication must appear as a separate entry in the daily report, whether taken, not taken, or not recorded."
+      required_display_format: "Medication name — dose — actual status"
+      display_examples:
+        - "Depakote — 500 mg — taken"
+        - "Seroquel — 100 mg — taken"
+        - "Sertraline — 25 mg — not taken"
+        - "Atenolol — 100 mg — not recorded"
       each_entry_must_include:
         - medication_name
         - dose
@@ -216,6 +222,10 @@ logging:
         - taken
         - not_taken
         - not_recorded
+      grouping:
+        rule: "Previous-night medications and morning medications must each list every scheduled medication individually. A group-level statement such as 'night medications taken,' 'morning medications taken,' or 'all medications taken' does not satisfy this requirement."
+      scheduled_medication_source:
+        rule: "Use the medication names and doses defined in this health-routine.yaml when constructing the report. Do not substitute a remembered medication list when the routine file is available."
       timing:
         rule: "Include actual time when known. Do not infer medication time."
 
