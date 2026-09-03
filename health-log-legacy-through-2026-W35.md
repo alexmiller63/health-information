@@ -1601,4 +1601,56 @@ Because the current blood-pressure medication contains hydrochlorothiazide (HCTZ
 ### Notes
 - Prednisolone acetate 1% eye drops not taken this morning; course believed complete after approximately 7 days.
 
+---
 
+## 2026-09-03
+
+### Previous night medications
+- Depakote — 500 mg — taken.
+- Seroquel — 100 mg — taken.
+- Melatonin — 10 mg — taken.
+- Atorvastatin — 10 mg — taken.
+- Saphris — 20 mg — taken.
+
+### Sleep
+- Bedtime: around 11:00 PM.
+- Wake time: 7:30 AM.
+- Time in bed: approximately 8 hours 30 minutes.
+- Sleep notes: a little sleepy this morning, but woke up.
+
+### Previous night alcohol
+- 0.
+
+### Morning measurements
+- Blood glucose: 119 mg/dL.
+- Blood pressure: 131/73 mmHg.
+- Blood-pressure pulse: 70 bpm.
+- Oxygen saturation: 95%.
+- Oximeter pulse: 74 bpm.
+- Temperature: 98.1°F.
+- Weight: 257.4 lb.
+
+### Morning medications
+- Depakote — 500 mg — taken.
+- Sertraline — 25 mg — taken.
+- Atenolol — 100 mg — taken.
+- Amlodipine — 10 mg — taken.
+- Losartan-HCTZ — 100 mg/12.5 mg — taken.
+- Allopurinol — 300 mg — taken.
+- Oxybutynin ER — 10 mg — taken.
+- Low-dose aspirin — 81 mg — taken.
+
+### Diet
+- Breakfast: eggs with hamburger and cheese.
+
+### Current day alcohol
+- 0.
+
+### Later medications
+- Omeprazole — 20 mg — not recorded.
+- Prednisolone acetate eye drops — not recorded.
+- Mounjaro — 10 mg — taken.
+
+### Notes
+- No Benadryl taken the previous night.
+- Blood-pressure device reported the reading as “high normal.”
