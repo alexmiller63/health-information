@@ -6,6 +6,11 @@
 #
 # A deviation in the daily log does not modify this routine.
 
+startup_verification:
+  marker: "Kilroy was here"
+  trigger: "Heather start"
+  rule: "When Alexander says 'Heather start', read the current health-routine.yaml and report the marker exactly."
+
 routine:
   wake_time: "07:30"
   breakfast_time: "08:00"
