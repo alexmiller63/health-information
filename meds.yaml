@@ -98,6 +98,22 @@ medications:
 
       route: oral
 
+    - name: Nystatin cream
+
+      generic_name: nystatin
+
+      concentration: "100,000 units/g"
+
+      dose: "small amount"
+
+      route: topical
+
+      site: "affected external penile skin"
+
+      frequency: twice_daily
+
+      duration: "14 days"
+
   before_lunch:
 
     - name: Omeprazole
@@ -167,6 +183,22 @@ medications:
       unit: mg
 
       route: oral
+
+    - name: Nystatin cream
+
+      generic_name: nystatin
+
+      concentration: "100,000 units/g"
+
+      dose: "small amount"
+
+      route: topical
+
+      site: "affected external penile skin"
+
+      frequency: twice_daily
+
+      duration: "14 days"
 
     - name: Saphris
 
