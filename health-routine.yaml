@@ -2,7 +2,7 @@
 #
 # Defines the normal health routine and health-log conventions.
 # This file describes what is SUPPOSED to happen.
-# health-log.md records what ACTUALLY happened.
+# ISO-week health-log files record what ACTUALLY happened.
 #
 # A deviation in the daily log does not modify this routine.
 
@@ -185,6 +185,12 @@ logging:
     routine_file: "Defines the expected routine."
     daily_log: "Records what actually happened."
 
+  storage:
+    scheme: iso_week
+    index_file: "health-log.md"
+    filename_pattern: "health-log-YYYY-Www.md"
+    rule: "Store each daily entry in the file for that date's ISO week-numbering year and ISO week number. Create the weekly file when it does not yet exist."
+
   day_boundary:
     convention: overnight_to_day
     rule: "The previous night's medications, sleep, and alcohol are included in the following calendar day's Daily Health Log entry."
@@ -311,29 +317,20 @@ logging:
       - make_only_requested_or_approved_changes
 
 publication_workflows:
-  full_health_log_replacement:
-    purpose: "Used after importing the current health log from GitHub and making approved global edits."
+  weekly_health_log_replacement:
+    purpose: "Used after importing one current ISO-week health-log file from GitHub and making approved edits."
     input:
-      - current_complete_health_log_from_github
-      - approved_global_changes
+      - current_complete_iso_week_health_log_from_github
+      - approved_changes
     output:
-      type: complete_replacement_health_log
+      type: complete_replacement_iso_week_health_log
       format: raw_selectable_markdown_source
       render_markdown: false
       preserve_unapproved_content: true
       dont_mung: true
-    delivery:
-      may_require_multiple_parts: true
-      rule: "If the complete replacement is too large for reliable copying, divide it into sequential selectable Markdown parts."
-      part_requirements:
-        - preserve_exact_order
-        - clearly_label_each_part
-        - state_where_the_next_part_begins
-        - do_not_repeat_or_omit_entries_between_parts
-      completion_rule: "The replacement operation is complete only after all parts have been delivered and pasted."
 
   daily_health_log_append:
-    purpose: "Used for the normal daily publication of a new health-log entry into the existing GitHub health log."
+    purpose: "Used for the normal daily publication of a new health-log entry into the appropriate ISO-week GitHub health log."
     input:
       - health_routine_yaml
       - facts_recorded_during_the_day
@@ -343,7 +340,7 @@ publication_workflows:
       render_markdown: false
       dont_mung: true
     delivery:
-      rule: "Return only the Markdown source needed for the new daily entry, ready to paste into the end of health-log.md."
+      rule: "Append the new daily entry to health-log-YYYY-Www.md for the date's ISO week. Create that weekly file if it does not yet exist. Do not append daily entries to health-log.md; it is the index."
       include_complete_existing_health_log: false
     superseding_entry:
       use_when: "A later entry for the same date replaces one or more earlier entries."
