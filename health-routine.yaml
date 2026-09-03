@@ -176,7 +176,7 @@ medications:
 
   weekly:
     mounjaro:
-      dose: "7.5 mg"
+      dose: "10 mg"
       day: Thursday
       frequency: weekly
 
