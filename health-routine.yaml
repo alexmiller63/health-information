@@ -135,6 +135,14 @@ medications:
     - name: Low-dose aspirin
       dose: "81 mg"
 
+    - name: Nystatin cream
+      concentration: "100,000 units/g"
+      dose: "small amount"
+      route: topical
+      site: "affected external penile skin"
+      frequency: twice_daily
+      duration: "14 days"
+
   off_sequence:
     omeprazole:
       dose: "20 mg"
@@ -167,6 +175,14 @@ medications:
 
     - name: Atorvastatin
       dose: "10 mg"
+
+    - name: Nystatin cream
+      concentration: "100,000 units/g"
+      dose: "small amount"
+      route: topical
+      site: "affected external penile skin"
+      frequency: twice_daily
+      duration: "14 days"
 
     - name: Saphris
       dose_per_tablet: "10 mg"
